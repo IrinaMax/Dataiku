@@ -1,0 +1,102 @@
+Governance basic quiz. Correct answer are bold text.
+
+You have passed the quiz!
+Your score:
+8 of 10 Correct (80%)
+Elapsed time:
+15 minutes
+Hide Answers
+Question 1:  Correct answer
+If a model is governed, does its parent project need to be governed?
+
+Yes, higher-level items must be governed.
+ No, governance can be applied independently of the hierarchy.
+Question 2:  Correct answer
+On which page can you view a Kanban board of your governed projects?
+
+ Governable items
+ Model registry
+ Bundle registry
+ Business initiatives
+Governed projects
+Question 3:  Incorrect answer
+True or False: If the model version or bundle is rejected, it cannot be deployed.
+
+True. You cannot deploy with a rejected sign-off.
+ False. The ability to deploy depends on the Govern policy in the Deployer.
+Question 4:  Correct answer
+Why might you want to use Dataiku Govern? (Select three.)
+
+To centralize projects from different Dataiku nodes.
+ To create automation scenarios.
+To track and manage the progress of your Dataiku projects.
+To control the deployment of model versions and bundles.
+Question 5:  Incorrect answer
+True or false: Model metrics are generated in the source instance of a Govern item.
+
+ True. The metrics of a model always originate from the source instance (either a Design node or Automation node).
+False. Model metrics are generated in Dataiku Govern.
+
+Question 6:  Correct answer
+Which can be linked to business initiatives?
+ Govern Models
+ Govern Bundles
+Govern Projects
+ Dataiku Projects
+
+Question 7:  Correct answer
+True or false: Once a final approval is given, you cannot restart the sign-off process.
+ True. The final approval denotes the permanent end of the sign-off process for an item.
+False. The sign-off process can be reset at any time.
+
+Question 8:  Correct answer
+What types of items can you govern? (Select four.)
+ Projects
+Models
+Model versions
+Bundles
+ Business initiatives
+Question 9:  Correct answer
+
+What decision is connected to the Deployer node?
+ The Risk and Compliance review
+ The feedback review
+The final approval
+ The Business review
+Question 10:  Correct answer
+True or false: Different Govern items can have different workflows.
+
+True. Workflows can vary between different Govern items.
+ False. Each Govern item has the same workflow.
+
+
+
+New quiz 12/1/2025
+You have passed the quiz!
+Your score:
+4 of 5 Correct (80%)
+Elapsed time:
+3 minutes
+Hide Answers
+Question 1:  Correct answer
+The data of models found in the Model registry is stored in the Govern node.
+ True. Ask your admin about which database the Govern node uses to store models.
+ False. The Govern node only syncs the metadata of its source items.
+Question 2:  Correct answerAll items in a registry page (such as the Bundle or Model registry) must be governed.
+ True. This is the way to see governed items of a particular type.
+ False. You can filter registry pages by governed status.
+Question 3:  Incorrect answerWhich of the following pages in the Govern node can include source items that haven't yet been governed? Select all that apply.
+ Governable items
+ Model registry
+
+ Governed projects
+Question 4:  Correct answerName the Govern item that groups together governed projects.
+ Bundle
+ Business initiative
+ Workspace
+ Project hub
+Question 5:  Correct answerIf you choose to govern a project, you must also govern all child items such as bundles and models.
+ Always true.
+ Always false.
+ This decision is left to the user unless the administrator has defined different auto-governance rules.
+
